@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Contao-Bootstrap documentation build configuration file, created by
+# Contao-Bootstrap Dokumentation build configuration file, created by
 # sphinx-quickstart on Sat Feb 21 14:00:30 2015.
 #
 # This file is execfile()d with the current directory set to its
@@ -49,7 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Contao-Bootstrap'
-copyright = u'2015, David Molineus <david.molineus@netzmacht.de>'
+copyright = u'2015, netzmacht creative'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -201,7 +201,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'Contao-Bootstrap.tex', u'Contao-Bootstrap Documentation',
+  ('index', 'Contao-Bootstrap.tex', u'Contao-Bootstrap Dokumentation',
    u'David Molineus \\textless{}david.molineus@netzmacht.de\\textgreater{}', 'manual'),
 ]
 
@@ -231,8 +231,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'contao-bootstrap', u'Contao-Bootstrap Documentation',
-     [u'David Molineus <david.molineus@netzmacht.de>'], 1)
+    ('index', 'contao-bootstrap', u'Contao-Bootstrap Dokumentation',
+     [u'netzmacht creative'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -245,8 +245,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'Contao-Bootstrap', u'Contao-Bootstrap Documentation',
-   u'David Molineus <david.molineus@netzmacht.de>', 'Contao-Bootstrap', 'One line description of project.',
+  ('index', 'Contao-Bootstrap', u'Contao-Bootstrap Dokumentation',
+   u'netzmacht creative', 'Contao-Bootstrap', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -267,9 +267,9 @@ texinfo_documents = [
 
 # Bibliographic Dublin Core info.
 epub_title = u'Contao-Bootstrap'
-epub_author = u'David Molineus <david.molineus@netzmacht.de>'
-epub_publisher = u'David Molineus <david.molineus@netzmacht.de>'
-epub_copyright = u'2015, David Molineus <david.molineus@netzmacht.de>'
+epub_author = u'netzmacht creative'
+epub_publisher = u'netzmacht creative'
+epub_copyright = u'2015, netzmacht creative'
 
 # The basename for the epub file. It defaults to the project name.
 #epub_basename = u'Contao-Bootstrap'
