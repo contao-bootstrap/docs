@@ -6,12 +6,14 @@
 Welcome to Contao-Bootstrap's documentation!
 ============================================
 
-Handbuch:
+Handbuch
+--------
 
 .. toctree::
    :maxdepth: 2
 
    manual/introduction
+   manual/acknowledgments
    manual/install
    manual/components
    manual/resources
@@ -19,8 +21,8 @@ Handbuch:
 .. toctree::
    :maxdepth: 2
 
-Indices and tables
-==================
+Verzeichnisse
+-------------
 
 * :ref:`genindex`
 * :ref:`modindex`
