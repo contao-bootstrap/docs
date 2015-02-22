@@ -29,10 +29,9 @@ Kochbuch
 --------
 
 .. toctree::
-   :glob:
    :maxdepth: 2
 
-   cookbook/*
+   cookbook/index
 
 Verzeichnisse
 -------------
