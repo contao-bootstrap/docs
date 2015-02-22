@@ -6,6 +6,8 @@
 Contao-Bootstrap Dokumentation
 ==============================
 
+.. _manual:
+
 Handbuch
 --------
 
@@ -20,6 +22,17 @@ Handbuch
 
 .. toctree::
    :maxdepth: 2
+
+.. _cookbook:
+
+Kochbuch
+--------
+
+.. toctree::
+   :glob:
+   :maxdepth: 2
+
+   cookbook/*
 
 Verzeichnisse
 -------------
