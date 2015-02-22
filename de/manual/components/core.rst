@@ -25,7 +25,7 @@ Bootstrap-Layout
 Contao-Bootstrap setzt auf das Layout-Konzept von Contao auf und führt einen Layouttyp ein. Da einige Funktionen
 dynamisch im Hintergrund ausgeführt werden, besitzen Sie so die Kontrolle, wann diese Funktionen greifen.
 
-.. figure:: ../../../assets/manual/core_layouttype.png
+.. figure:: ../../../assets/manual/components/core_layouttype.png
    :scale: 100 %
    :alt: Layouttyp
 
