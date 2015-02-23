@@ -14,11 +14,13 @@ Dokumentation
 Die `Dokumentation`_ wird über Github verwaltet und benötigt freiwillige Helfer.
 
 
-Übersetzung
------------
+Übersetzungen
+-------------
 
-Die `Überstzungen`_ werden über Transifex verwaltet und benötigen freiwillige Helfer. Bisher an den Übersetzungen
-mitgewirkt haben:
+Die `Überstzungen`_ der Erweiterung werden über Transifex verwaltet und benötigen freiwillige Helfer. Die Dokumentation
+wird direkt im Repository eingepflegt.
+
+Bisher an den Übersetzungen mitgewirkt haben:
 
  * `kikmedia (Carolina Koehn)`_
 
