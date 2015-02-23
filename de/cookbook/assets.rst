@@ -1,6 +1,6 @@
 
-Integrate Bootstrap Assets
-==========================
+Bootstrap Framework einbinden
+=============================
 
 Quellen
 -------
