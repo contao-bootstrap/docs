@@ -5,15 +5,18 @@ Einführung
 Die Erweiterung Contao-Bootstrap integriert das Frontend-Framework `Bootstrap 3`_ in das Open Source Content Management
 System `Contao`_. Als modulare Erweiterung setzt sie voll auf die Vorzüge der `Composer-Paket-Verwaltung`_ für Contao.
 
+Diese Dokumentation setzt gute Kenntnisse über die Verwendung `Contao`_ als auch `Bootstrap 3`_ voraus.
 
-Die Kosten
-----------
+
+Kosten
+------
 
 Die Erweiterung kostet mich Zeit zum Entwickeln, Testen, Support leisten, Dokumentation schreiben usw. Nur ein Teil
 davon kann ich über eigene Projekte refinanzieren.
 
-Als Open-Source-Projekt wird Contao-Bootstrap kostenfrei angewiesen, ist aber auf die `Mitarbeit`_ sowie
-auf `finanzielle Unterstützung`_ angewiesen um die kontinuierliche Weiterentwicklung sicherzustellen.
+Contao-Bootstrap wird als Open-Source-Software unter der *LGPL* sowie *kostenfrei* angeboten. Das Projet ist aber auf
+die `Mitarbeit`_ sowie auf `finanzielle Unterstützung`_ angewiesen um die kontinuierliche Weiterentwicklung
+sicherzustellen.
 
 
 Zwischen zwei Konventionen
@@ -29,16 +32,18 @@ Maße durch dynamische Anpassung von CSS-Klassen.
 Bootstrap Framework
 -------------------
 
-Contao-Bootstrap integriertt **nicht automatisch** das Bootstrap-Framework. Somit ist es vollständig unabhängig von dem
-gewünschten Workflow. Ob CSS, Less, Sass - es werden keine Vorgaben gemacht. Möglichkeiten zur Integration werden im
-:ref:`cookbook/assets`_ aufgezeigt.
+Contao-Bootstrap integriert **nicht** das Bootstrap-Framework. Dies liegt in der Verantwortung des Benutzers. Dadurch
+ist die Erweiterung vollständig unabhängig von dem bevorugten CSS-/Javascript-Workflow. Ob CSS, Less, Sass - es werden
+keine Vorgaben gemacht. Möglichkeiten zur Integration werden im :doc:`/cookbook/assets` aufgezeigt.
 
 
 Modulare Architektur
 --------------------
 
-Bootstrap für Contao ist vollständig modular aufgebaut und ermöglicht somit schnellere Bugfixes und Weiterentwicklung
-einzelner Komponenten. Es ist außerdem möglich nur einzelne Pakete zu installieren.
+Bootstrap für Contao ist vollständig modular aufgebaut. Dies ermöglicht schnellere Bugfixes und Weiterentwicklung
+einzelner Komponenten. Einzelne Komponenten können unabhängig voneinander genutzt werden, sodass eine schlanke
+bedarfsgerechte Installation möglich ist.
+
 
 .. _Bootstrap 3: http://getbootstrap.com
 .. _Contao: http://contao.org
