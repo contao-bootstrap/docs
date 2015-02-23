@@ -17,11 +17,10 @@ Die `Dokumentation`_ wird über Github verwaltet und benötigt freiwillige Helfe
 Übersetzung
 -----------
 
-An der Übersetzung mitgewirkt haben:
+Die `Überstzungen`_ werden über Transifex verwaltet und benötigen freiwillige Helfer. Bisher an den Übersetzungen
+mitgewirkt haben:
 
  * `kikmedia (Carolina Koehn)`_
-
-Die `Überstzungen`_ werden über Transifex verwaltet und benötigt freiwillige Helfer.
 
 
 Software

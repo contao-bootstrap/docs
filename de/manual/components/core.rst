@@ -114,8 +114,15 @@ Für Entwickler
 Ressourcen
 ----------
 
+ * Packagist: `contao-bootstrap/core`__
+ * Github:    `contao-bootstrap/core`__
 
 .. _Bootstrap 3: http://getbootstrap.com
 .. _Glyphicons: http://getbootstrap.com/components/#glyphicons
 .. _netzmacht/contao-font-awesome: https://github.com/netzmacht/contao-font-awesome
 .. _Icon-Wizard: https://github.com/netzmacht/contao-icon-wizard
+
+
+__ https://packagist.org/packages/contao-bootstrap/core
+__ https://github.com/contao-bootstrap/core
+

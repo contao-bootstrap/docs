@@ -33,8 +33,8 @@ Bootstrap Framework
 -------------------
 
 Contao-Bootstrap integriert **nicht** das Bootstrap-Framework. Dies liegt in der Verantwortung des Benutzers. Dadurch
-ist die Erweiterung vollständig unabhängig von dem bevorugten CSS-/Javascript-Workflow. Ob CSS, Less, Sass - es werden
-keine Vorgaben gemacht. Möglichkeiten zur Integration werden im :doc:`/cookbook/assets` aufgezeigt.
+ist die Erweiterung vollständig unabhängig von dem bevorzugten CSS- und Javascript-Workflow. Ob CSS, Less, Sass - es
+werden keine Vorgaben gemacht. Möglichkeiten zur Integration werden im :doc:`/cookbook/assets` aufgezeigt.
 
 
 Modulare Architektur
