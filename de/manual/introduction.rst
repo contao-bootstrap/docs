@@ -14,7 +14,7 @@ Kosten
 Die Erweiterung kostet mich Zeit zum Entwickeln, Testen, Support leisten, Dokumentation schreiben usw. Nur ein Teil
 davon kann ich über eigene Projekte refinanzieren.
 
-Contao-Bootstrap wird als Open-Source-Software unter der *LGPL* sowie *kostenfrei* angeboten. Das Projet ist aber auf
+Contao-Bootstrap wird als Open-Source-Software unter der *LGPL* sowie *kostenfrei* angeboten. Das Projekt ist aber auf
 die `Mitarbeit`_ sowie auf `finanzielle Unterstützung`_ angewiesen um die kontinuierliche Weiterentwicklung
 sicherzustellen.
 
