@@ -12,9 +12,13 @@ Quellen
 Boardmittel nutzen
 ------------------
 
-.. hint:: Dieser Bereich ist noch nicht dokumentiert. Für die Dokumentation werden `Unterstützer gesucht`_. Du kannst an
-   der `Dokumentation mitarbeiten`_ oder durch eine `finanzielle Unterstützung`_ zur Vervollständigung der Dokumentation
-   beitragen.
+Der Bootstrap Code lässt sich von `getbootstrap.com`_ downloaden und auf dem eigenen Server speichern
+und dann lokal in Contao in das Seitenlayout einbinden, oder alternativ als `CDN`_ direkt in das Seitenlayout in dem Feld
+*Zusätzliche <head>-Tags* einbinden. 
+
+.. _`getbootstrap.com`: http://getbootstrap.com/getting-started/#download
+.. _`CDN`: http://getbootstrap.com/getting-started/#download-cdn
+
 
 Theme+
 ------
