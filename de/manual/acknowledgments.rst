@@ -17,7 +17,7 @@ Die `Dokumentation`_ wird über Github verwaltet und benötigt freiwillige Helfe
 Übersetzungen
 -------------
 
-Die `Überstzungen`_ der Erweiterung werden über Transifex verwaltet und benötigen freiwillige Helfer. Die Dokumentation
+Die `Übersetzungen`_ der Erweiterung werden über Transifex verwaltet und benötigen freiwillige Helfer. Die Dokumentation
 wird direkt im Repository eingepflegt.
 
 Bisher an den Übersetzungen mitgewirkt haben:
