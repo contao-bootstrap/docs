@@ -16,7 +16,7 @@ Installation
 Funktionen
 ----------
 
-Mit Hilfe des Grit Editors kann man verschiedene Spaltenlayouts konfigurieren. Diese Spaltenlayouts können dann mit Hilfe der Contao Erweiterungen 
+Mit Hilfe des Grid-Editors kann man verschiedene Spaltenlayouts konfigurieren. Diese Spaltenlayouts können dann mit Hilfe der Contao Erweiterungen 
 semantic_html5_ oder subcolumns_ auf Inhalte,  wie beispielsweise Artikel oder Formulare, angewendet werden. In diesem Zusammenhang spricht man auch von einem Grid System.
 Das Bootstrap Grid besteht standardmäßig aus 12 Spalten die man individuell für jeden Viewport konfigurieren kann.
 
