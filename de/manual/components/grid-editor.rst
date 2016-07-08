@@ -22,7 +22,7 @@ Das Bootstrap Grid besteht standardmäßig aus 12 Spalten die man individuell f�
 
 Einen guten Überblick über den Aufbau des Bootstrap Grid findet man  auf der Webseite getbootstrap.com_.
 
-Aufgerufen wird der Grit Editor über das Backendmodul **Spaltensets**. Dieses befindet sich unter dem Menüpunkt Layout.
+Aufgerufen wird der Grid-Editor über das Backendmodul **Spaltensets**. Dieses befindet sich unter dem Menüpunkt Layout.
 
 .. _semantic_html5: https://contao.org/de/erweiterungsliste/view/semantic_html5.de.html 
 .. _subcolumns: https://contao.org/de/erweiterungsliste/view/subcolumns.de.html 
